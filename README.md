@@ -15,5 +15,5 @@
 
 <p>You can reach me at:</p>
 
-<p> <a href="https://www.xing.com/profile/Georgios_Natrosvili/cv">Xing</a> und <a href="www.linkedin.com/in/natrosvili">linkedIn</a></p>
+<p><a href="https://www.xing.com/profile/Georgios_Natrosvili/cv">Xing</a> und <a href="www.linkedin.com/in/natrosvili">linkedIn</a></p>
 
