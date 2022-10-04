@@ -1,4 +1,4 @@
-# Hi, there!
+# 👋 Hi there!,  
 
 <p>I'm interested in Web Development and I'm looking forward to talk with you about our next Project.</p>
 
@@ -6,11 +6,12 @@
 
 <p>I'm currently learning:</p>
 
-- HTML
-- CSS
-- JavaScript 
-- ReactJS
-
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li>ReactJS</li>
+</ul>
 
 <p>You can reach me at:</p>
 
