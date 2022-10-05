@@ -15,5 +15,5 @@
 
 <p>You can reach me at:</p>
 
-<p><a href="https://www.xing.com/profile/Georgios_Natrosvili/cv"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/xing-icon-logo.png" alt="Xing picture"</a> & <a href="www.linkedin.com/in/natrosvili"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedIn picture"></a></p>
+<p><a href="https://www.xing.com/profile/Georgios_Natrosvili/cv"><img style="width:50px;height:50px;" src="https://cdn.freebiesupply.com/logos/thumbs/2x/xing-icon-logo.png" alt="Xing picture"></a> & <a href="www.linkedin.com/in/natrosvili"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedIn picture"></a></p>
 
