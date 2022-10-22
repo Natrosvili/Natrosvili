@@ -3,7 +3,7 @@
 <p>My name is Georgios Natrosvili, I come from Greece and Georgia, I'm a Student of the Neue Fische Bootcamp, I'm interested in Web and App Development, and I love learning new Languages, Tools and frameworks such as HTML5, CSS3, Python, JavaScript, React, jQuery, as well as SASS.</p>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Natrosvili&show_icons=true&hide_border=true&theme=dark">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Natrosvili&layout=compact&theme=dark&hide_border=true">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Natrosvili&layout=compact&theme=dark&hide_border=true" width = 250>
 
 
 <p>I'm currently learning:</p>
