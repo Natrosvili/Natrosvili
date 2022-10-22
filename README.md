@@ -1,16 +1,17 @@
-# 👋 Hi there! 
+<h1>Hi there 👋</h1>
 
-<p>My name is Georgios Natrosvili, I'm a Student of the Neue Fische Bootcamp, I'm interested in Web Development and I'm looking forward to talk with you about our next Project.</p>
+<p>My name is Georgios Natrosvili, I come from Greece and Georgia, I'm a Student of the Neue Fische Bootcamp, I'm interested in Web and App Development. I love learning new Languages, Tools and frameworks such as HTML5, CSS3, Python, JavaScript, React, jQuery, as well as SASS.</p>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdODeSH-UDAW54Dqef-OrKTEK4KlhX1Gl0OA&usqp=CAU" alt="a picture of developers working together">
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Natrosvili)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p>I'm currently learning:</p>
 
 <ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
   <li>JavaScript</li>
-  <li>ReactJS</li>
+  <li>ReactJS</>
+  <li>Bootstrap 5</li>
+  <li>Figma</li>
 </ul>
 
 <p>You can reach me at:</p>
