@@ -1,4 +1,4 @@
-<h1>Hi there 👋</h1>
+<h1>Hi there <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 
 <p>My name is Georgios Natrosvili, I come from Greece and Georgia, I'm a Student of the Neue Fische Bootcamp, I'm interested in Web and App Development. I love learning new Languages, Tools and frameworks such as HTML5, CSS3, Python, JavaScript, React, jQuery, as well as SASS.</p>
 
