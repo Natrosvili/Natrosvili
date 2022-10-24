@@ -20,5 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Natrosvili&icon=5&color=6)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Natrosvili&label=Profile%20Views&color=1&icon=0&pretty=true" />
+</a>
 
