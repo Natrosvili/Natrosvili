@@ -9,4 +9,5 @@
 ## 📊 GitHub Stats:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Natrosvili&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+
